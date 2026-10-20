@@ -1,0 +1,801 @@
+age,weight_kg,budget,goal,vegetarian,meal
+22,58.5,15,build_muscle,0,Grilled chicken salad
+59,76.8,16,lose_weight,0,Lentil soup
+35,65.3,17,stay_healthy,0,Grilled chicken salad
+35,74.9,15,lose_weight,1,Egg white omelette
+39,84.6,14,stay_healthy,0,Veggie burrito bowl
+45,78.5,17,lose_weight,0,Lentil soup
+63,77.8,7,build_muscle,0,Lentil soup
+39,50.1,17,lose_weight,1,Greek yogurt parfait
+53,59.6,9,build_muscle,0,Chicken momo
+61,65.1,13,build_muscle,0,Grilled chicken salad
+32,66.9,17,build_muscle,0,Paneer tikka wrap
+34,66.6,16,build_muscle,1,Paneer tikka wrap
+63,84.8,15,build_muscle,1,Paneer tikka wrap
+61,70.0,16,lose_weight,0,Egg white omelette
+37,77.6,10,stay_healthy,1,Paneer tikka wrap
+53,57.6,9,lose_weight,0,Egg white omelette
+18,45.3,14,lose_weight,0,Egg white omelette
+42,70.0,17,stay_healthy,1,Dal bhat
+53,53.0,15,build_muscle,1,Quinoa avocado salad
+55,70.8,17,stay_healthy,0,Paneer tikka wrap
+46,67.1,7,build_muscle,1,Lentil soup
+25,75.0,15,lose_weight,0,Egg white omelette
+18,75.4,10,stay_healthy,0,Tofu stir fry
+22,72.7,13,stay_healthy,1,Paneer tikka wrap
+38,76.3,11,build_muscle,0,Grilled chicken salad
+29,77.7,17,stay_healthy,0,Paneer tikka wrap
+43,71.1,17,stay_healthy,0,Dal bhat
+64,72.9,17,stay_healthy,0,Dal bhat
+48,60.8,9,build_muscle,1,Dal bhat
+33,62.3,17,stay_healthy,0,Grilled chicken salad
+22,51.2,11,build_muscle,0,Grilled chicken salad
+32,81.1,13,stay_healthy,0,Paneer tikka wrap
+18,82.8,6,stay_healthy,0,Greek yogurt parfait
+47,41.7,8,lose_weight,0,Egg white omelette
+39,62.0,6,lose_weight,0,Greek yogurt parfait
+23,73.2,7,stay_healthy,1,Lentil soup
+18,82.4,9,build_muscle,0,Paneer tikka wrap
+65,64.1,15,lose_weight,0,Egg white omelette
+40,76.5,12,stay_healthy,1,Dal bhat
+40,51.3,17,build_muscle,0,Grilled chicken salad
+27,72.1,11,build_muscle,0,Grilled chicken salad
+35,86.1,15,lose_weight,1,Greek yogurt parfait
+52,62.6,7,stay_healthy,0,Lentil soup
+23,77.7,11,lose_weight,0,Egg white omelette
+62,59.4,17,lose_weight,0,Lentil soup
+58,80.3,8,build_muscle,0,Dal bhat
+58,69.7,13,build_muscle,0,Paneer tikka wrap
+50,58.6,10,build_muscle,0,Dal bhat
+30,63.5,6,stay_healthy,0,Greek yogurt parfait
+39,71.1,10,lose_weight,0,Egg white omelette
+47,58.1,15,lose_weight,0,Lentil soup
+23,75.1,9,stay_healthy,0,Paneer tikka wrap
+29,50.1,6,stay_healthy,1,Greek yogurt parfait
+20,53.5,13,stay_healthy,0,Lentil soup
+51,89.7,16,lose_weight,0,Egg white omelette
+29,98.7,13,lose_weight,0,Egg white omelette
+32,74.3,11,stay_healthy,0,Dal bhat
+34,38.7,8,build_muscle,0,Egg white omelette
+34,77.0,16,lose_weight,0,Egg white omelette
+44,68.8,7,lose_weight,0,Lentil soup
+20,59.5,8,stay_healthy,0,Lentil soup
+39,85.6,16,stay_healthy,1,Veggie burrito bowl
+31,51.7,11,build_muscle,0,Grilled chicken salad
+38,57.2,11,build_muscle,0,Grilled chicken salad
+40,87.4,8,lose_weight,0,Egg white omelette
+46,67.2,17,stay_healthy,1,Quinoa avocado salad
+23,88.2,13,build_muscle,0,Beef ramen
+37,72.2,15,lose_weight,0,Egg white omelette
+26,62.3,9,build_muscle,1,Dal bhat
+46,85.3,16,lose_weight,0,Lentil soup
+38,63.8,10,stay_healthy,0,Tofu stir fry
+60,72.4,13,build_muscle,0,Paneer tikka wrap
+39,96.8,6,stay_healthy,0,Greek yogurt parfait
+36,73.7,13,lose_weight,0,Egg white omelette
+20,80.7,10,stay_healthy,1,Paneer tikka wrap
+29,71.4,7,lose_weight,0,Greek yogurt parfait
+50,46.5,11,lose_weight,1,Lentil soup
+30,75.8,17,lose_weight,0,Greek yogurt parfait
+58,73.3,10,lose_weight,1,Lentil soup
+55,77.2,6,build_muscle,1,Greek yogurt parfait
+24,90.7,16,build_muscle,1,Paneer tikka wrap
+43,77.4,15,build_muscle,1,Veggie burrito bowl
+59,83.3,6,lose_weight,0,Greek yogurt parfait
+62,87.6,17,build_muscle,0,Salmon with rice
+20,77.3,15,stay_healthy,0,Dal bhat
+28,59.0,10,stay_healthy,0,Chicken momo
+46,53.7,6,lose_weight,0,Greek yogurt parfait
+60,68.1,15,build_muscle,0,Salmon with rice
+40,72.0,11,stay_healthy,0,Tofu stir fry
+22,72.7,16,lose_weight,1,Greek yogurt parfait
+53,71.9,9,lose_weight,0,Lentil soup
+33,64.7,8,stay_healthy,0,Dal bhat
+57,60.8,10,build_muscle,0,Chicken momo
+61,73.9,13,lose_weight,1,Greek yogurt parfait
+39,90.8,15,lose_weight,0,Egg white omelette
+24,72.8,11,stay_healthy,0,Dal bhat
+19,71.1,17,lose_weight,0,Greek yogurt parfait
+22,91.3,14,stay_healthy,0,Veggie burrito bowl
+22,68.5,6,stay_healthy,1,Greek yogurt parfait
+57,44.7,9,stay_healthy,0,Egg white omelette
+27,72.0,12,stay_healthy,0,Dal bhat
+40,75.5,17,build_muscle,0,Salmon with rice
+35,66.6,14,build_muscle,0,Paneer tikka wrap
+20,61.6,16,lose_weight,1,Egg white omelette
+40,97.1,6,build_muscle,1,Greek yogurt parfait
+46,91.3,16,lose_weight,1,Lentil soup
+34,83.5,9,build_muscle,0,Paneer tikka wrap
+27,89.2,17,stay_healthy,0,Veggie burrito bowl
+56,61.7,10,build_muscle,0,Dal bhat
+24,66.6,15,stay_healthy,0,Dal bhat
+64,82.3,10,stay_healthy,0,Dal bhat
+45,76.8,17,build_muscle,1,Veggie burrito bowl
+39,75.3,6,stay_healthy,0,Greek yogurt parfait
+33,82.7,6,lose_weight,1,Greek yogurt parfait
+25,75.3,11,lose_weight,0,Egg white omelette
+64,59.0,16,build_muscle,0,Grilled chicken salad
+48,71.7,14,stay_healthy,1,Quinoa avocado salad
+47,75.5,8,stay_healthy,0,Dal bhat
+35,77.6,11,build_muscle,0,Veggie burrito bowl
+19,76.6,6,stay_healthy,1,Greek yogurt parfait
+21,66.7,16,stay_healthy,0,Chicken momo
+37,51.1,13,lose_weight,0,Egg white omelette
+52,76.4,6,stay_healthy,0,Greek yogurt parfait
+39,64.9,9,lose_weight,1,Egg white omelette
+19,67.8,8,build_muscle,1,Dal bhat
+25,71.9,15,lose_weight,0,Egg white omelette
+47,74.4,9,lose_weight,0,Lentil soup
+50,50.7,12,build_muscle,0,Grilled chicken salad
+46,91.7,17,build_muscle,0,Beef ramen
+61,60.9,13,build_muscle,0,Grilled chicken salad
+45,53.1,7,stay_healthy,1,Lentil soup
+25,73.5,14,stay_healthy,0,Tofu stir fry
+29,57.0,15,lose_weight,0,Egg white omelette
+57,83.6,16,build_muscle,1,Veggie burrito bowl
+57,66.5,16,build_muscle,1,Paneer tikka wrap
+40,59.5,8,stay_healthy,0,Dal bhat
+24,70.6,10,stay_healthy,0,Tofu stir fry
+47,54.1,6,stay_healthy,1,Greek yogurt parfait
+28,70.1,15,stay_healthy,1,Dal bhat
+61,72.3,15,stay_healthy,0,Dal bhat
+34,41.5,14,lose_weight,1,Egg white omelette
+27,75.1,6,lose_weight,0,Greek yogurt parfait
+64,88.4,7,lose_weight,1,Lentil soup
+27,74.5,8,stay_healthy,0,Dal bhat
+19,78.9,17,stay_healthy,0,Dal bhat
+28,56.1,7,build_muscle,0,Lentil soup
+25,49.1,17,stay_healthy,0,Egg white omelette
+39,88.5,15,stay_healthy,0,Salmon with rice
+46,72.0,10,lose_weight,0,Greek yogurt parfait
+31,62.6,17,lose_weight,1,Greek yogurt parfait
+37,65.0,17,build_muscle,1,Tofu stir fry
+53,57.3,11,stay_healthy,0,Lentil soup
+64,70.5,12,lose_weight,0,Lentil soup
+64,59.8,14,build_muscle,0,Grilled chicken salad
+38,91.2,7,stay_healthy,0,Lentil soup
+58,64.5,16,stay_healthy,0,Tofu stir fry
+47,63.8,14,build_muscle,0,Dal bhat
+21,54.5,17,build_muscle,0,Grilled chicken salad
+46,75.6,6,build_muscle,0,Greek yogurt parfait
+54,67.7,17,lose_weight,0,Egg white omelette
+56,75.6,8,build_muscle,1,Dal bhat
+30,68.6,14,stay_healthy,0,Tofu stir fry
+48,79.5,12,lose_weight,0,Greek yogurt parfait
+42,57.5,8,lose_weight,0,Egg white omelette
+18,63.0,6,stay_healthy,0,Greek yogurt parfait
+19,53.8,8,build_muscle,0,Lentil soup
+44,80.8,8,build_muscle,1,Dal bhat
+44,58.2,16,build_muscle,0,Grilled chicken salad
+28,85.3,14,stay_healthy,0,Veggie burrito bowl
+40,80.0,12,stay_healthy,1,Veggie burrito bowl
+63,64.0,13,build_muscle,1,Paneer tikka wrap
+45,58.8,6,build_muscle,1,Greek yogurt parfait
+52,60.8,11,build_muscle,1,Veggie burrito bowl
+53,56.0,13,stay_healthy,1,Lentil soup
+19,74.8,16,lose_weight,0,Egg white omelette
+58,82.4,12,build_muscle,1,Veggie burrito bowl
+33,64.7,10,lose_weight,0,Egg white omelette
+36,75.0,17,build_muscle,0,Salmon with rice
+21,87.5,11,build_muscle,0,Paneer tikka wrap
+33,72.2,17,stay_healthy,1,Tofu stir fry
+28,80.6,8,lose_weight,0,Egg white omelette
+19,75.8,12,build_muscle,0,Grilled chicken salad
+44,109.1,7,stay_healthy,1,Lentil soup
+53,48.5,7,stay_healthy,0,Greek yogurt parfait
+43,76.9,7,stay_healthy,1,Lentil soup
+43,78.9,13,lose_weight,1,Egg white omelette
+34,77.3,9,build_muscle,1,Paneer tikka wrap
+19,63.8,6,stay_healthy,0,Greek yogurt parfait
+40,82.6,16,lose_weight,0,Lentil soup
+54,61.6,15,lose_weight,0,Egg white omelette
+40,71.6,9,lose_weight,0,Greek yogurt parfait
+25,76.2,12,stay_healthy,1,Dal bhat
+36,63.0,14,build_muscle,0,Grilled chicken salad
+46,62.3,11,lose_weight,1,Greek yogurt parfait
+34,60.9,9,stay_healthy,0,Chicken momo
+39,67.1,7,build_muscle,0,Greek yogurt parfait
+60,72.2,14,build_muscle,0,Grilled chicken salad
+24,61.4,14,build_muscle,0,Grilled chicken salad
+18,60.7,7,lose_weight,0,Greek yogurt parfait
+24,52.7,13,build_muscle,0,Grilled chicken salad
+51,60.0,14,stay_healthy,0,Quinoa avocado salad
+22,71.3,17,stay_healthy,0,Tofu stir fry
+18,78.2,8,lose_weight,1,Egg white omelette
+31,57.8,6,build_muscle,1,Greek yogurt parfait
+37,55.4,17,lose_weight,0,Egg white omelette
+27,86.8,12,stay_healthy,1,Paneer tikka wrap
+53,66.3,8,stay_healthy,0,Lentil soup
+38,82.7,17,lose_weight,0,Egg white omelette
+19,43.1,7,lose_weight,1,Lentil soup
+46,51.8,11,lose_weight,1,Egg white omelette
+34,45.3,15,build_muscle,0,Grilled chicken salad
+18,76.2,16,lose_weight,0,Egg white omelette
+54,92.7,15,lose_weight,0,Egg white omelette
+61,86.6,14,stay_healthy,0,Dal bhat
+27,62.9,13,stay_healthy,0,Quinoa avocado salad
+47,89.6,17,build_muscle,0,Beef ramen
+63,85.4,7,lose_weight,0,Lentil soup
+57,59.2,8,build_muscle,1,Dal bhat
+48,82.7,8,stay_healthy,1,Dal bhat
+41,66.8,13,stay_healthy,0,Dal bhat
+65,66.3,8,build_muscle,0,Dal bhat
+45,79.6,17,stay_healthy,0,Paneer tikka wrap
+42,72.0,10,lose_weight,1,Greek yogurt parfait
+64,88.0,17,lose_weight,1,Greek yogurt parfait
+40,94.2,6,build_muscle,0,Greek yogurt parfait
+49,64.4,13,stay_healthy,0,Quinoa avocado salad
+27,86.9,7,lose_weight,0,Greek yogurt parfait
+37,85.6,14,stay_healthy,1,Veggie burrito bowl
+22,98.3,7,stay_healthy,0,Greek yogurt parfait
+29,66.4,12,build_muscle,0,Paneer tikka wrap
+61,74.6,12,stay_healthy,0,Veggie burrito bowl
+44,89.8,10,lose_weight,0,Egg white omelette
+26,100.1,16,lose_weight,0,Greek yogurt parfait
+38,59.1,10,stay_healthy,1,Tofu stir fry
+28,84.1,12,stay_healthy,0,Dal bhat
+57,73.2,7,stay_healthy,0,Lentil soup
+41,80.9,16,stay_healthy,1,Veggie burrito bowl
+57,70.0,9,lose_weight,1,Lentil soup
+64,71.7,8,build_muscle,1,Dal bhat
+65,62.9,11,lose_weight,0,Egg white omelette
+46,68.9,11,lose_weight,0,Lentil soup
+43,49.2,17,lose_weight,1,Egg white omelette
+45,77.1,12,stay_healthy,1,Paneer tikka wrap
+62,70.5,8,stay_healthy,1,Dal bhat
+22,74.1,9,build_muscle,1,Paneer tikka wrap
+23,67.2,12,stay_healthy,0,Tofu stir fry
+34,90.1,17,build_muscle,0,Salmon with rice
+20,86.0,9,build_muscle,0,Paneer tikka wrap
+20,65.0,11,stay_healthy,0,Chicken momo
+57,79.2,8,stay_healthy,0,Dal bhat
+60,77.0,8,lose_weight,0,Lentil soup
+54,70.6,9,stay_healthy,0,Dal bhat
+37,84.6,10,stay_healthy,0,Paneer tikka wrap
+37,66.5,9,build_muscle,1,Dal bhat
+33,75.9,8,build_muscle,1,Dal bhat
+63,50.4,12,stay_healthy,1,Lentil soup
+41,69.8,10,lose_weight,1,Egg white omelette
+64,70.0,15,lose_weight,0,Egg white omelette
+42,78.6,13,stay_healthy,0,Dal bhat
+45,76.0,7,lose_weight,0,Lentil soup
+62,78.6,7,lose_weight,0,Lentil soup
+25,77.5,12,lose_weight,1,Egg white omelette
+58,53.7,9,stay_healthy,0,Lentil soup
+26,65.7,8,stay_healthy,0,Dal bhat
+27,58.7,6,build_muscle,0,Greek yogurt parfait
+20,55.5,13,stay_healthy,0,Grilled chicken salad
+31,90.5,14,build_muscle,0,Beef ramen
+55,81.8,11,lose_weight,0,Egg white omelette
+40,62.4,15,build_muscle,1,Paneer tikka wrap
+30,73.5,11,build_muscle,0,Tofu stir fry
+47,66.2,13,lose_weight,1,Egg white omelette
+25,56.3,7,stay_healthy,0,Greek yogurt parfait
+21,97.6,15,lose_weight,0,Egg white omelette
+59,85.7,15,stay_healthy,0,Veggie burrito bowl
+31,79.4,13,build_muscle,0,Veggie burrito bowl
+33,67.1,13,lose_weight,0,Egg white omelette
+51,87.3,6,build_muscle,0,Greek yogurt parfait
+54,68.2,6,build_muscle,0,Greek yogurt parfait
+40,61.0,17,lose_weight,0,Greek yogurt parfait
+57,65.9,11,lose_weight,0,Lentil soup
+32,63.5,17,lose_weight,0,Greek yogurt parfait
+52,93.0,7,stay_healthy,1,Lentil soup
+47,61.3,6,build_muscle,0,Greek yogurt parfait
+51,80.9,12,lose_weight,1,Egg white omelette
+29,65.2,6,stay_healthy,0,Greek yogurt parfait
+22,79.0,17,build_muscle,1,Veggie burrito bowl
+27,75.5,7,stay_healthy,1,Lentil soup
+50,61.9,8,lose_weight,0,Egg white omelette
+29,80.8,9,stay_healthy,0,Dal bhat
+33,84.7,13,stay_healthy,0,Veggie burrito bowl
+25,62.6,14,lose_weight,0,Egg white omelette
+40,87.1,10,build_muscle,0,Veggie burrito bowl
+24,58.7,11,lose_weight,0,Lentil soup
+38,64.3,11,lose_weight,1,Egg white omelette
+43,86.3,12,build_muscle,1,Veggie burrito bowl
+32,54.5,8,stay_healthy,0,Lentil soup
+41,76.4,9,lose_weight,0,Greek yogurt parfait
+29,65.6,10,lose_weight,1,Egg white omelette
+43,57.3,7,lose_weight,0,Lentil soup
+33,94.7,12,stay_healthy,0,Veggie burrito bowl
+18,64.4,16,stay_healthy,1,Quinoa avocado salad
+59,78.7,13,build_muscle,1,Veggie burrito bowl
+49,63.3,6,stay_healthy,1,Greek yogurt parfait
+62,67.9,11,build_muscle,1,Veggie burrito bowl
+60,47.5,12,stay_healthy,1,Lentil soup
+49,82.2,11,build_muscle,0,Veggie burrito bowl
+61,63.9,17,lose_weight,0,Lentil soup
+44,52.0,6,stay_healthy,0,Greek yogurt parfait
+19,80.1,6,build_muscle,0,Greek yogurt parfait
+55,74.9,6,stay_healthy,0,Greek yogurt parfait
+34,77.5,6,stay_healthy,0,Greek yogurt parfait
+54,65.4,11,lose_weight,0,Lentil soup
+32,62.7,12,build_muscle,0,Grilled chicken salad
+51,72.9,10,build_muscle,0,Dal bhat
+47,78.8,14,build_muscle,0,Veggie burrito bowl
+64,72.6,15,build_muscle,0,Salmon with rice
+56,59.7,7,build_muscle,0,Lentil soup
+60,54.9,13,build_muscle,0,Grilled chicken salad
+42,69.1,13,build_muscle,0,Paneer tikka wrap
+52,59.6,9,lose_weight,0,Lentil soup
+48,89.2,10,build_muscle,0,Veggie burrito bowl
+61,63.9,11,stay_healthy,0,Chicken momo
+42,51.4,7,build_muscle,1,Lentil soup
+27,52.0,6,stay_healthy,0,Greek yogurt parfait
+39,76.6,10,stay_healthy,0,Paneer tikka wrap
+33,68.5,7,lose_weight,1,Lentil soup
+55,62.3,10,lose_weight,0,Egg white omelette
+20,73.5,9,build_muscle,0,Paneer tikka wrap
+54,82.2,9,build_muscle,0,Dal bhat
+25,54.6,9,build_muscle,1,Egg white omelette
+53,61.6,9,stay_healthy,0,Dal bhat
+55,64.6,14,build_muscle,1,Tofu stir fry
+55,71.5,12,stay_healthy,1,Dal bhat
+38,76.3,15,build_muscle,0,Salmon with rice
+50,68.6,16,stay_healthy,0,Dal bhat
+57,75.3,15,build_muscle,1,Veggie burrito bowl
+45,76.1,8,stay_healthy,0,Dal bhat
+42,78.3,6,stay_healthy,1,Greek yogurt parfait
+40,97.7,9,lose_weight,1,Egg white omelette
+29,66.2,10,stay_healthy,0,Tofu stir fry
+41,61.7,16,build_muscle,0,Dal bhat
+28,78.1,13,build_muscle,1,Veggie burrito bowl
+47,84.2,17,stay_healthy,1,Veggie burrito bowl
+45,67.1,11,build_muscle,0,Veggie burrito bowl
+55,50.3,10,lose_weight,0,Greek yogurt parfait
+31,55.5,13,stay_healthy,1,Lentil soup
+24,81.8,11,build_muscle,0,Veggie burrito bowl
+21,47.9,16,lose_weight,1,Greek yogurt parfait
+43,81.4,16,stay_healthy,0,Dal bhat
+40,74.1,16,lose_weight,1,Greek yogurt parfait
+51,68.1,15,lose_weight,0,Lentil soup
+40,90.6,8,build_muscle,0,Dal bhat
+29,75.8,12,build_muscle,1,Paneer tikka wrap
+41,67.5,8,stay_healthy,1,Dal bhat
+34,81.3,17,stay_healthy,1,Paneer tikka wrap
+52,65.6,17,build_muscle,1,Dal bhat
+48,62.2,8,build_muscle,0,Dal bhat
+24,53.6,6,build_muscle,1,Greek yogurt parfait
+24,54.2,11,build_muscle,0,Grilled chicken salad
+65,58.5,9,build_muscle,0,Lentil soup
+29,74.9,13,stay_healthy,0,Tofu stir fry
+26,76.6,9,stay_healthy,0,Dal bhat
+28,61.1,12,build_muscle,0,Grilled chicken salad
+33,46.0,11,stay_healthy,0,Lentil soup
+53,64.0,14,build_muscle,1,Paneer tikka wrap
+46,82.1,7,lose_weight,0,Lentil soup
+20,63.9,7,lose_weight,1,Lentil soup
+35,75.7,16,stay_healthy,0,Chicken momo
+42,67.9,16,build_muscle,0,Paneer tikka wrap
+49,76.7,16,build_muscle,0,Salmon with rice
+48,71.8,14,lose_weight,0,Lentil soup
+38,70.7,6,lose_weight,0,Greek yogurt parfait
+21,83.3,10,build_muscle,0,Paneer tikka wrap
+40,71.0,7,build_muscle,1,Lentil soup
+37,90.4,12,stay_healthy,0,Veggie burrito bowl
+64,61.4,10,build_muscle,0,Chicken momo
+47,77.7,16,stay_healthy,1,Dal bhat
+42,72.4,8,lose_weight,1,Greek yogurt parfait
+21,84.7,11,build_muscle,1,Veggie burrito bowl
+45,68.0,15,lose_weight,0,Quinoa avocado salad
+48,67.1,13,stay_healthy,0,Quinoa avocado salad
+57,89.4,14,lose_weight,1,Egg white omelette
+51,78.5,12,build_muscle,0,Veggie burrito bowl
+57,53.6,7,build_muscle,1,Lentil soup
+61,62.5,16,build_muscle,0,Grilled chicken salad
+65,99.6,9,build_muscle,1,Paneer tikka wrap
+19,79.2,12,lose_weight,0,Egg white omelette
+30,63.0,16,build_muscle,1,Tofu stir fry
+50,74.7,6,stay_healthy,0,Greek yogurt parfait
+19,72.4,6,lose_weight,0,Greek yogurt parfait
+43,62.2,14,stay_healthy,0,Chicken momo
+54,86.5,14,lose_weight,0,Egg white omelette
+63,77.1,13,build_muscle,1,Veggie burrito bowl
+52,66.0,12,lose_weight,0,Lentil soup
+58,63.4,15,stay_healthy,1,Quinoa avocado salad
+53,76.4,14,stay_healthy,1,Dal bhat
+29,62.7,8,lose_weight,1,Egg white omelette
+36,78.1,15,stay_healthy,0,Paneer tikka wrap
+50,65.7,10,lose_weight,1,Egg white omelette
+44,53.0,9,lose_weight,0,Egg white omelette
+46,64.2,7,stay_healthy,1,Lentil soup
+65,70.2,6,lose_weight,0,Greek yogurt parfait
+35,95.0,12,build_muscle,0,Veggie burrito bowl
+57,68.3,16,stay_healthy,0,Quinoa avocado salad
+40,63.1,10,stay_healthy,0,Chicken momo
+27,62.2,13,stay_healthy,1,Tofu stir fry
+58,81.5,8,stay_healthy,0,Dal bhat
+54,78.9,11,stay_healthy,1,Veggie burrito bowl
+51,71.5,17,lose_weight,1,Lentil soup
+52,77.3,10,stay_healthy,0,Dal bhat
+62,79.0,12,lose_weight,1,Egg white omelette
+60,75.4,17,stay_healthy,0,Dal bhat
+59,62.4,11,stay_healthy,0,Chicken momo
+33,62.9,7,stay_healthy,0,Lentil soup
+56,68.6,9,build_muscle,0,Paneer tikka wrap
+24,49.4,13,build_muscle,0,Grilled chicken salad
+26,95.3,8,build_muscle,1,Dal bhat
+27,81.0,8,lose_weight,0,Egg white omelette
+50,68.1,7,stay_healthy,0,Lentil soup
+59,63.2,9,stay_healthy,0,Lentil soup
+36,68.0,16,stay_healthy,0,Dal bhat
+25,85.6,15,stay_healthy,0,Paneer tikka wrap
+60,69.7,10,stay_healthy,1,Dal bhat
+32,96.6,11,build_muscle,0,Veggie burrito bowl
+20,66.5,13,lose_weight,0,Egg white omelette
+33,65.0,12,lose_weight,1,Egg white omelette
+57,65.9,17,build_muscle,0,Salmon with rice
+37,66.2,9,build_muscle,1,Paneer tikka wrap
+54,79.4,9,build_muscle,0,Paneer tikka wrap
+32,66.2,11,build_muscle,1,Dal bhat
+44,63.9,15,lose_weight,1,Egg white omelette
+28,62.3,16,build_muscle,0,Grilled chicken salad
+58,79.2,8,stay_healthy,0,Dal bhat
+55,83.3,14,stay_healthy,1,Dal bhat
+18,76.2,9,lose_weight,1,Egg white omelette
+49,61.8,7,stay_healthy,0,Lentil soup
+44,70.6,9,lose_weight,1,Lentil soup
+60,83.3,17,build_muscle,0,Salmon with rice
+35,59.1,10,lose_weight,1,Egg white omelette
+58,60.9,6,lose_weight,0,Greek yogurt parfait
+52,88.0,15,build_muscle,1,Veggie burrito bowl
+31,81.5,6,build_muscle,0,Greek yogurt parfait
+21,83.0,15,build_muscle,0,Salmon with rice
+62,71.8,11,build_muscle,1,Paneer tikka wrap
+48,64.4,17,build_muscle,0,Salmon with rice
+56,87.6,8,lose_weight,1,Egg white omelette
+18,83.7,10,build_muscle,0,Veggie burrito bowl
+19,63.6,9,stay_healthy,0,Chicken momo
+44,67.7,8,lose_weight,1,Greek yogurt parfait
+22,58.5,17,lose_weight,0,Egg white omelette
+27,79.3,8,lose_weight,0,Egg white omelette
+27,88.3,17,build_muscle,0,Salmon with rice
+55,57.9,12,lose_weight,0,Egg white omelette
+27,87.5,17,lose_weight,0,Lentil soup
+61,68.6,9,lose_weight,0,Lentil soup
+62,61.2,17,build_muscle,0,Grilled chicken salad
+65,57.6,10,stay_healthy,0,Chicken momo
+31,86.6,8,build_muscle,1,Dal bhat
+59,77.1,7,build_muscle,0,Lentil soup
+42,71.1,10,stay_healthy,1,Dal bhat
+23,62.9,11,stay_healthy,1,Tofu stir fry
+44,53.7,10,stay_healthy,0,Lentil soup
+30,58.4,9,lose_weight,0,Greek yogurt parfait
+61,88.3,10,lose_weight,0,Lentil soup
+32,44.3,14,lose_weight,1,Egg white omelette
+53,72.4,6,build_muscle,0,Greek yogurt parfait
+44,72.4,10,lose_weight,1,Egg white omelette
+50,87.9,7,stay_healthy,0,Lentil soup
+30,72.5,10,lose_weight,1,Egg white omelette
+44,89.0,14,lose_weight,0,Lentil soup
+59,60.6,7,build_muscle,0,Lentil soup
+41,61.4,7,lose_weight,0,Greek yogurt parfait
+33,68.9,10,build_muscle,1,Paneer tikka wrap
+48,53.5,16,build_muscle,0,Grilled chicken salad
+42,78.0,8,lose_weight,1,Egg white omelette
+46,50.1,7,stay_healthy,0,Lentil soup
+46,93.2,15,build_muscle,0,Salmon with rice
+36,62.9,12,build_muscle,0,Grilled chicken salad
+21,63.3,13,build_muscle,1,Tofu stir fry
+34,73.4,12,lose_weight,0,Egg white omelette
+54,50.5,11,build_muscle,0,Grilled chicken salad
+54,61.8,13,stay_healthy,0,Quinoa avocado salad
+32,51.4,17,lose_weight,0,Egg white omelette
+38,114.1,13,build_muscle,0,Beef ramen
+49,83.7,7,build_muscle,0,Lentil soup
+39,52.4,6,build_muscle,0,Greek yogurt parfait
+32,86.4,9,build_muscle,1,Paneer tikka wrap
+51,97.7,12,build_muscle,1,Veggie burrito bowl
+34,60.3,6,build_muscle,0,Greek yogurt parfait
+25,91.0,15,stay_healthy,1,Veggie burrito bowl
+56,68.0,13,build_muscle,1,Dal bhat
+53,46.9,11,lose_weight,0,Greek yogurt parfait
+26,77.2,8,build_muscle,1,Dal bhat
+27,76.1,9,stay_healthy,0,Paneer tikka wrap
+55,78.6,8,lose_weight,1,Greek yogurt parfait
+24,83.3,17,build_muscle,0,Salmon with rice
+32,76.0,9,build_muscle,1,Paneer tikka wrap
+30,84.9,7,build_muscle,1,Greek yogurt parfait
+53,86.9,9,lose_weight,1,Greek yogurt parfait
+65,61.2,6,lose_weight,0,Greek yogurt parfait
+24,79.6,8,stay_healthy,0,Dal bhat
+56,72.1,11,lose_weight,0,Greek yogurt parfait
+52,80.0,13,lose_weight,1,Egg white omelette
+39,73.3,9,stay_healthy,0,Paneer tikka wrap
+53,71.0,8,lose_weight,1,Egg white omelette
+25,87.1,13,stay_healthy,0,Veggie burrito bowl
+37,83.7,11,lose_weight,1,Egg white omelette
+46,84.0,9,stay_healthy,0,Dal bhat
+47,59.2,6,stay_healthy,0,Greek yogurt parfait
+31,90.4,7,build_muscle,0,Lentil soup
+48,62.6,11,build_muscle,0,Grilled chicken salad
+48,43.1,16,lose_weight,0,Greek yogurt parfait
+65,90.5,16,stay_healthy,0,Veggie burrito bowl
+46,71.4,13,stay_healthy,0,Quinoa avocado salad
+58,84.8,16,stay_healthy,0,Veggie burrito bowl
+26,77.8,14,stay_healthy,1,Dal bhat
+55,86.6,6,build_muscle,0,Greek yogurt parfait
+55,61.0,13,lose_weight,1,Lentil soup
+65,72.9,15,stay_healthy,0,Dal bhat
+49,55.6,6,build_muscle,0,Greek yogurt parfait
+35,84.0,14,lose_weight,0,Egg white omelette
+26,65.7,14,lose_weight,0,Egg white omelette
+35,79.6,6,stay_healthy,0,Greek yogurt parfait
+44,94.7,16,stay_healthy,0,Veggie burrito bowl
+22,74.2,13,build_muscle,0,Paneer tikka wrap
+61,68.0,15,lose_weight,0,Lentil soup
+41,60.4,7,stay_healthy,0,Lentil soup
+29,80.6,15,lose_weight,0,Egg white omelette
+51,83.3,17,stay_healthy,0,Dal bhat
+22,74.5,14,stay_healthy,0,Dal bhat
+44,82.0,13,lose_weight,1,Lentil soup
+52,76.2,17,lose_weight,0,Greek yogurt parfait
+55,93.5,15,lose_weight,0,Egg white omelette
+60,56.6,12,build_muscle,1,Veggie burrito bowl
+23,59.1,17,stay_healthy,1,Quinoa avocado salad
+32,68.0,10,stay_healthy,1,Tofu stir fry
+42,66.6,11,build_muscle,0,Grilled chicken salad
+38,104.9,6,stay_healthy,1,Greek yogurt parfait
+47,74.6,15,build_muscle,0,Veggie burrito bowl
+20,90.8,12,lose_weight,0,Egg white omelette
+21,87.7,16,build_muscle,1,Veggie burrito bowl
+39,74.3,17,stay_healthy,1,Dal bhat
+42,71.3,16,build_muscle,0,Salmon with rice
+60,93.8,15,build_muscle,0,Salmon with rice
+35,70.0,6,build_muscle,0,Greek yogurt parfait
+45,73.8,16,build_muscle,1,Paneer tikka wrap
+21,74.2,6,lose_weight,0,Greek yogurt parfait
+26,71.7,13,build_muscle,1,Paneer tikka wrap
+23,48.3,8,lose_weight,1,Greek yogurt parfait
+53,48.5,6,build_muscle,0,Greek yogurt parfait
+43,82.1,12,build_muscle,0,Veggie burrito bowl
+58,77.7,6,stay_healthy,0,Greek yogurt parfait
+43,72.0,16,lose_weight,0,Lentil soup
+20,44.4,9,stay_healthy,1,Egg white omelette
+40,54.0,13,stay_healthy,0,Quinoa avocado salad
+49,72.6,9,stay_healthy,0,Dal bhat
+53,55.1,11,lose_weight,0,Egg white omelette
+51,68.1,17,build_muscle,0,Salmon with rice
+23,62.5,10,build_muscle,0,Paneer tikka wrap
+25,60.7,12,lose_weight,0,Greek yogurt parfait
+31,75.8,12,build_muscle,1,Veggie burrito bowl
+42,58.1,7,lose_weight,0,Greek yogurt parfait
+41,74.8,12,lose_weight,1,Egg white omelette
+26,62.8,11,build_muscle,0,Grilled chicken salad
+39,77.7,14,build_muscle,1,Paneer tikka wrap
+58,53.1,13,lose_weight,0,Egg white omelette
+42,93.8,14,stay_healthy,0,Veggie burrito bowl
+61,94.9,6,build_muscle,0,Greek yogurt parfait
+33,84.8,16,stay_healthy,0,Salmon with rice
+25,94.2,9,build_muscle,1,Paneer tikka wrap
+59,83.0,10,build_muscle,1,Veggie burrito bowl
+34,83.1,11,stay_healthy,0,Paneer tikka wrap
+45,73.9,10,stay_healthy,1,Dal bhat
+42,84.9,16,lose_weight,1,Egg white omelette
+47,72.3,8,build_muscle,1,Dal bhat
+31,83.2,8,lose_weight,0,Egg white omelette
+43,65.1,15,lose_weight,1,Lentil soup
+27,68.5,12,build_muscle,0,Grilled chicken salad
+30,72.7,6,lose_weight,0,Greek yogurt parfait
+23,71.0,17,build_muscle,0,Salmon with rice
+58,75.7,8,lose_weight,0,Egg white omelette
+51,91.3,11,lose_weight,0,Egg white omelette
+20,84.9,12,build_muscle,0,Grilled chicken salad
+29,97.3,14,stay_healthy,0,Veggie burrito bowl
+45,90.7,7,lose_weight,0,Lentil soup
+18,48.1,14,stay_healthy,0,Egg white omelette
+27,77.0,15,lose_weight,0,Egg white omelette
+40,67.5,11,stay_healthy,0,Dal bhat
+25,76.2,17,stay_healthy,0,Paneer tikka wrap
+30,71.9,13,lose_weight,0,Greek yogurt parfait
+61,57.3,13,build_muscle,0,Grilled chicken salad
+38,80.3,16,stay_healthy,0,Paneer tikka wrap
+57,86.2,14,build_muscle,1,Veggie burrito bowl
+59,66.1,8,stay_healthy,1,Dal bhat
+18,73.7,11,lose_weight,0,Greek yogurt parfait
+61,105.7,17,stay_healthy,0,Veggie burrito bowl
+45,80.6,17,build_muscle,0,Salmon with rice
+43,101.0,6,lose_weight,0,Greek yogurt parfait
+29,74.1,9,build_muscle,0,Paneer tikka wrap
+38,70.2,11,build_muscle,0,Paneer tikka wrap
+60,84.0,15,lose_weight,0,Lentil soup
+31,80.4,7,lose_weight,0,Greek yogurt parfait
+19,93.9,13,build_muscle,0,Beef ramen
+53,49.4,13,stay_healthy,0,Lentil soup
+54,79.6,6,build_muscle,0,Greek yogurt parfait
+22,46.7,7,stay_healthy,1,Lentil soup
+46,83.0,16,stay_healthy,0,Veggie burrito bowl
+21,68.0,6,build_muscle,0,Greek yogurt parfait
+61,70.1,17,build_muscle,0,Dal bhat
+36,57.8,10,build_muscle,0,Tofu stir fry
+41,66.1,10,lose_weight,0,Egg white omelette
+41,58.4,7,lose_weight,0,Greek yogurt parfait
+46,50.4,8,lose_weight,0,Egg white omelette
+64,66.8,14,lose_weight,0,Lentil soup
+60,78.7,16,build_muscle,0,Salmon with rice
+65,82.7,8,lose_weight,1,Lentil soup
+22,65.5,9,lose_weight,0,Greek yogurt parfait
+35,93.0,7,lose_weight,0,Greek yogurt parfait
+52,91.5,14,stay_healthy,0,Dal bhat
+21,53.8,8,lose_weight,1,Egg white omelette
+37,70.7,10,stay_healthy,0,Tofu stir fry
+51,61.9,11,stay_healthy,0,Dal bhat
+44,79.8,10,build_muscle,0,Veggie burrito bowl
+30,67.4,16,build_muscle,1,Tofu stir fry
+62,62.0,14,stay_healthy,0,Quinoa avocado salad
+60,81.7,11,build_muscle,1,Paneer tikka wrap
+58,85.7,17,stay_healthy,0,Veggie burrito bowl
+19,65.0,17,lose_weight,1,Egg white omelette
+37,66.8,14,build_muscle,0,Grilled chicken salad
+46,81.7,12,build_muscle,1,Veggie burrito bowl
+49,66.5,13,stay_healthy,1,Lentil soup
+18,78.3,6,lose_weight,1,Greek yogurt parfait
+22,86.1,17,lose_weight,0,Greek yogurt parfait
+36,69.1,16,lose_weight,1,Greek yogurt parfait
+55,73.2,8,lose_weight,0,Egg white omelette
+56,78.1,9,stay_healthy,0,Dal bhat
+64,99.8,9,stay_healthy,0,Dal bhat
+45,69.4,16,build_muscle,1,Dal bhat
+62,90.7,17,stay_healthy,0,Veggie burrito bowl
+50,82.0,15,build_muscle,0,Salmon with rice
+34,75.9,14,build_muscle,0,Grilled chicken salad
+22,51.4,16,stay_healthy,1,Egg white omelette
+49,76.4,8,build_muscle,0,Dal bhat
+19,73.0,10,lose_weight,0,Greek yogurt parfait
+65,53.1,9,lose_weight,0,Egg white omelette
+25,73.2,10,stay_healthy,0,Tofu stir fry
+61,93.8,8,build_muscle,0,Dal bhat
+42,86.3,16,stay_healthy,1,Veggie burrito bowl
+29,78.7,9,stay_healthy,0,Paneer tikka wrap
+65,72.3,15,build_muscle,0,Salmon with rice
+32,42.4,16,stay_healthy,1,Egg white omelette
+43,63.0,7,lose_weight,0,Lentil soup
+50,82.8,10,build_muscle,1,Veggie burrito bowl
+62,79.4,6,lose_weight,1,Greek yogurt parfait
+25,76.5,17,build_muscle,1,Paneer tikka wrap
+56,67.3,6,lose_weight,0,Greek yogurt parfait
+28,76.6,11,lose_weight,0,Egg white omelette
+60,104.6,9,lose_weight,1,Lentil soup
+52,69.3,6,stay_healthy,0,Greek yogurt parfait
+62,84.6,10,build_muscle,1,Veggie burrito bowl
+27,55.7,13,lose_weight,0,Egg white omelette
+24,65.7,12,stay_healthy,0,Chicken momo
+38,81.2,8,stay_healthy,0,Dal bhat
+26,62.9,6,stay_healthy,0,Greek yogurt parfait
+21,82.8,6,build_muscle,0,Greek yogurt parfait
+38,73.0,13,stay_healthy,1,Dal bhat
+24,52.8,8,stay_healthy,0,Lentil soup
+59,79.5,14,build_muscle,0,Veggie burrito bowl
+39,72.5,8,stay_healthy,1,Dal bhat
+40,57.4,11,lose_weight,0,Egg white omelette
+65,62.6,7,lose_weight,0,Greek yogurt parfait
+28,86.7,14,lose_weight,1,Egg white omelette
+31,58.8,12,build_muscle,1,Paneer tikka wrap
+56,79.1,17,stay_healthy,0,Veggie burrito bowl
+26,64.2,15,lose_weight,1,Egg white omelette
+55,72.2,12,build_muscle,1,Veggie burrito bowl
+53,89.1,13,lose_weight,0,Greek yogurt parfait
+46,65.7,9,lose_weight,1,Egg white omelette
+54,67.5,7,stay_healthy,0,Lentil soup
+20,44.4,7,lose_weight,1,Greek yogurt parfait
+28,54.5,13,build_muscle,0,Grilled chicken salad
+44,54.1,13,stay_healthy,0,Quinoa avocado salad
+24,74.6,17,lose_weight,1,Egg white omelette
+35,62.1,17,build_muscle,1,Tofu stir fry
+63,82.5,16,build_muscle,0,Salmon with rice
+51,53.2,7,stay_healthy,0,Lentil soup
+34,89.6,9,lose_weight,0,Greek yogurt parfait
+52,60.8,12,stay_healthy,1,Lentil soup
+55,81.9,17,build_muscle,1,Veggie burrito bowl
+35,61.6,14,stay_healthy,1,Quinoa avocado salad
+55,87.9,11,stay_healthy,0,Paneer tikka wrap
+49,78.0,10,build_muscle,0,Veggie burrito bowl
+56,65.3,6,stay_healthy,0,Greek yogurt parfait
+41,64.8,6,lose_weight,0,Greek yogurt parfait
+63,48.1,8,lose_weight,0,Greek yogurt parfait
+46,74.1,17,build_muscle,0,Salmon with rice
+19,94.3,12,stay_healthy,0,Veggie burrito bowl
+54,66.8,16,build_muscle,0,Grilled chicken salad
+51,65.8,12,stay_healthy,1,Quinoa avocado salad
+48,79.2,9,build_muscle,0,Paneer tikka wrap
+58,71.7,14,lose_weight,0,Egg white omelette
+64,66.5,10,build_muscle,1,Dal bhat
+19,65.0,12,stay_healthy,0,Quinoa avocado salad
+37,82.8,12,stay_healthy,0,Paneer tikka wrap
+35,48.0,17,stay_healthy,0,Lentil soup
+49,43.4,11,build_muscle,1,Egg white omelette
+50,66.6,7,lose_weight,1,Greek yogurt parfait
+42,63.9,14,stay_healthy,0,Tofu stir fry
+32,63.9,6,stay_healthy,0,Greek yogurt parfait
+46,78.9,17,lose_weight,1,Greek yogurt parfait
+22,81.6,9,lose_weight,0,Egg white omelette
+20,40.5,14,lose_weight,0,Egg white omelette
+36,86.6,13,lose_weight,0,Egg white omelette
+42,70.3,16,stay_healthy,0,Dal bhat
+24,80.1,8,lose_weight,0,Greek yogurt parfait
+28,76.0,6,build_muscle,1,Greek yogurt parfait
+64,46.8,13,lose_weight,1,Lentil soup
+60,88.0,16,stay_healthy,1,Veggie burrito bowl
+52,69.6,6,stay_healthy,0,Greek yogurt parfait
+61,69.1,10,build_muscle,0,Veggie burrito bowl
+40,80.1,16,stay_healthy,1,Dal bhat
+63,77.1,17,lose_weight,1,Lentil soup
+22,90.1,14,lose_weight,1,Egg white omelette
+18,98.9,15,build_muscle,0,Beef ramen
+28,79.5,16,lose_weight,0,Egg white omelette
+37,58.5,6,build_muscle,0,Greek yogurt parfait
+45,69.8,16,lose_weight,0,Egg white omelette
+29,83.1,15,lose_weight,1,Egg white omelette
+60,64.2,17,build_muscle,1,Dal bhat
+40,62.3,8,stay_healthy,1,Dal bhat
+41,69.9,6,stay_healthy,0,Greek yogurt parfait
+58,63.3,13,lose_weight,0,Lentil soup
+63,50.7,17,build_muscle,0,Grilled chicken salad
+38,79.8,9,lose_weight,1,Greek yogurt parfait
+24,50.3,15,build_muscle,0,Grilled chicken salad
+42,73.0,10,stay_healthy,0,Dal bhat
+64,72.1,16,lose_weight,0,Greek yogurt parfait
+45,54.8,13,stay_healthy,0,Lentil soup
+50,73.9,10,lose_weight,0,Egg white omelette
+64,65.6,17,lose_weight,0,Egg white omelette
+61,93.3,16,stay_healthy,0,Dal bhat
+62,67.9,7,lose_weight,0,Lentil soup
+54,66.7,8,build_muscle,0,Dal bhat
+29,63.8,17,build_muscle,0,Salmon with rice
+55,59.1,17,build_muscle,0,Grilled chicken salad
+40,69.2,6,lose_weight,1,Greek yogurt parfait
+65,69.9,14,stay_healthy,0,Quinoa avocado salad
+28,65.9,10,stay_healthy,0,Tofu stir fry
+59,89.2,14,build_muscle,0,Beef ramen
+56,85.8,10,stay_healthy,0,Veggie burrito bowl
+53,86.3,15,build_muscle,0,Salmon with rice
+43,54.3,9,build_muscle,0,Chicken momo
+38,69.5,10,build_muscle,0,Paneer tikka wrap
+41,74.6,7,build_muscle,0,Lentil soup
+18,63.8,12,stay_healthy,0,Tofu stir fry
+54,60.1,17,stay_healthy,0,Quinoa avocado salad
+25,83.8,10,build_muscle,1,Paneer tikka wrap
+55,69.9,9,build_muscle,0,Paneer tikka wrap
+62,74.0,16,lose_weight,0,Egg white omelette
+38,75.6,10,stay_healthy,0,Dal bhat
+56,78.0,6,build_muscle,0,Greek yogurt parfait
+29,68.0,15,stay_healthy,1,Quinoa avocado salad
+23,81.9,14,build_muscle,0,Veggie burrito bowl
+62,64.2,10,lose_weight,0,Lentil soup
+18,61.5,12,lose_weight,0,Lentil soup
+25,69.2,11,lose_weight,1,Egg white omelette
+21,70.7,8,lose_weight,0,Greek yogurt parfait
+33,48.3,14,build_muscle,0,Grilled chicken salad
+26,73.2,8,build_muscle,0,Dal bhat
+35,64.6,17,stay_healthy,0,Chicken momo
+41,90.9,7,build_muscle,0,Lentil soup
+41,92.4,10,build_muscle,1,Veggie burrito bowl
+27,57.1,9,build_muscle,0,Chicken momo
+49,50.4,13,lose_weight,0,Greek yogurt parfait
+47,75.0,16,stay_healthy,0,Dal bhat
+59,57.6,8,lose_weight,0,Egg white omelette
+32,82.0,9,stay_healthy,1,Paneer tikka wrap
+65,78.6,9,lose_weight,1,Lentil soup
+41,54.5,14,lose_weight,1,Egg white omelette
+60,91.5,8,lose_weight,0,Greek yogurt parfait
+37,73.2,15,lose_weight,0,Greek yogurt parfait
+19,84.8,14,build_muscle,0,Beef ramen
+35,67.2,8,lose_weight,1,Lentil soup
+43,73.2,11,stay_healthy,0,Dal bhat
+54,81.5,12,lose_weight,0,Egg white omelette
+55,91.3,11,build_muscle,0,Veggie burrito bowl
+57,83.9,9,stay_healthy,0,Paneer tikka wrap
+37,73.6,11,stay_healthy,0,Chicken momo
+40,93.8,14,lose_weight,0,Greek yogurt parfait
+47,69.4,7,lose_weight,1,Lentil soup
+36,68.3,15,stay_healthy,0,Paneer tikka wrap
+19,73.2,7,build_muscle,0,Greek yogurt parfait
+46,85.5,16,build_muscle,1,Veggie burrito bowl
+63,91.5,17,lose_weight,0,Greek yogurt parfait
+30,79.2,7,build_muscle,1,Greek yogurt parfait
+44,72.4,9,lose_weight,1,Egg white omelette
+37,75.8,7,build_muscle,0,Lentil soup
+37,68.9,10,lose_weight,0,Greek yogurt parfait
+51,54.4,6,stay_healthy,1,Greek yogurt parfait
+55,90.2,14,stay_healthy,1,Veggie burrito bowl

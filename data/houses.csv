@@ -1,0 +1,9 @@
+name,price,bedrooms,commute_minutes,tags
+Sunset studio,1900,1,35,near_transit;furnished
+Mission 2BR,3400,2,15,near_transit;pet_friendly
+Daly City house,3900,3,40,parking;yard;pet_friendly
+Richmond 1BR,2400,1,30,near_transit;quiet
+SoMa loft,3100,1,10,near_transit;gym;furnished
+Oakland 2BR,2600,2,30,near_transit;parking
+Pleasant Hill 2BR,2500,2,10,parking;quiet;pet_friendly
+Berkeley shared room,1200,1,25,near_transit;furnished;shared
